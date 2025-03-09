@@ -1,1 +1,2 @@
 This is a FileB
+MAde change is in FileB
